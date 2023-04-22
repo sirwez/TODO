@@ -3,7 +3,7 @@
 <h2>Instalação</h2>
 <ol>
   <li>Clone o repositório:</li>
-  <code>git clone https://github.com/seu-usuario/seu-projeto.git</code>
+  <code>git clone https://github.com/sirwez/TODO</code>
   <li>Instale as dependências:</li>
   <code>composer install</code>
   <li>Configure o banco de dados:</li>
